@@ -1,2 +1,3 @@
 # PL-SQL
-# useful pl/sql functions and examples 
+# example pl/sql 
+# useful pl/sql functions, packages and procedures 
