@@ -1,2 +1,2 @@
 # PL-SQL
-# example pl/sql code 
+# useful pl/sql functions and examples 
